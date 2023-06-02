@@ -1,0 +1,23 @@
+.ipl-team-container {
+  list-style-type: none;
+  background-color: #475569;
+  border-radius: 10px;
+  margin: 10px;
+  width: 400px;
+  height: 200px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.team-image-url {
+  width: 80px;
+  height: 80px;
+  margin-left: 10px;
+}
+.team-name {
+  color: #ffffff;
+  font-family: 'Bree-serif';
+  font-size: 22px;
+  margin-left: 12px;
+  margin-right: 12px;
+}
